@@ -1,4 +1,4 @@
-package Auth
+package Auth0
 
 // Import our dependencies. We'll use the standard http library as well as the gorilla router for this app
 import (
